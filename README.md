@@ -7,11 +7,6 @@ Description
 ============
 Database: PostgreSQL
 
-* Lombok
-@Getters: Used the for the available variables on that particular class.
-@Setters: Used the for the available variables on that particular class.
-
-
 * JPA: Used to reading and managing data from your java object to relational tables in the database.
 
 
